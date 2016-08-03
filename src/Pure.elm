@@ -88,14 +88,59 @@ menu =
     purify ["menu"]
 
 
+menuAllowHover : String
+menuAllowHover = 
+    purify ["menu", "allow", "hover"]
+
+
+menuChildren : String
+menuChildren = 
+    purify ["menu", "children"]
+
+
+menuDisabled : String
+menuDisabled = 
+    purify ["menu", "disabled"]
+
+
+menuHasChildren : String
+menuHasChildren = 
+    purify ["menu", "has", "children"]
+
+
+menuHeading : String
+menuHeading = 
+    purify ["menu", "heading"]
+
+
+menuHorizontal : String
+menuHorizontal = 
+    purify ["menu", "horizontal"]
+
+
 menuItem : String    
 menuItem = 
     purify ["menu", "item"]
 
 
+menuLink : String
+menuLink = 
+    purify ["menu", "link"]
+
+
 menuList : String
 menuList = 
     purify ["menu", "list"]
+
+
+menuSelected : String
+menuSelected = 
+    purify ["menu", "selected"]
+
+
+menuScrollable : String
+menuScrollable = 
+    purify ["menu", "scrollable"]
 
 
 radio : String
