@@ -32,6 +32,7 @@ purify classes =
     in
         String.join "-" parts
 
+
 {-|-}
 button : String
 button =
