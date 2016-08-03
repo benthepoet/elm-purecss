@@ -1,6 +1,6 @@
 {
     "version": "1.0.0",
-    "summary": "Elm bindings for Pure CSS",
+    "summary": "A set of helpers for Pure CSS",
     "repository": "https://github.com/benthepoet/elm-purecss.git",
     "license": "BSD3",
     "source-directories": [
