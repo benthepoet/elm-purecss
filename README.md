@@ -32,8 +32,8 @@ import Pure
 view model = 
     Html.table 
         [ Html.Attributes.classList
-            [ Pure.table 
-            , Pure.tableStriped
+            [ (Pure.table, True) 
+            , (Pure.tableStriped, True)
             ]
         ]
         [ Html.tr []
