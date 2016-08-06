@@ -1,5 +1,5 @@
 {
-    "version": "1.0.0",
+    "version": "1.0.1",
     "summary": "A set of helpers for Pure CSS",
     "repository": "https://github.com/benthepoet/elm-purecss.git",
     "license": "BSD3",
