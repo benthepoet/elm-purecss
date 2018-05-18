@@ -1,6 +1,6 @@
 # elm-purecss
 
-A set of helpers for [Pure CSS](https://purecss.io).
+A set of [Pure CSS](https://purecss.io) helpers for Elm.
 
 ## Examples
 
